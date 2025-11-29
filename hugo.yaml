@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: 何夕2077的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态
+title: DeepExtract的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态
 
 timezone: Asia/Shanghai
 enableRobotsTXT: true
@@ -64,10 +64,10 @@ params:
   ahrefsKey-del: "Qe0ZpZJ6/W8rgMFnLgk4kg"
   description: 个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态
   descriptionEn: Your daily source for curated AI news, practical tools, and actionable tutorials to master Artificial Intelligence;
-  logo: "images/logo-dark.png"
+  logo: "images/DeepExtractAI.png"
   
   author:
-    name: "何夕2077的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
+    name: "DeepExtract的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
     bio: "去海边整点薯条"
     email: "justlikemaki@qq.com"
     website: "https://ai.hubtoday.app/about/"
@@ -76,8 +76,8 @@ params:
         url: "https://github.com/justlovemaki"
         
   publisher:
-    type: "Person" 
-    name: "何夕2077的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
+    type: "Person"
+    name: "DeepExtract的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
     url: "https://ai.hubtoday.app/about/"
     sameAs:
       - "https://github.com/justlovemaki"
@@ -89,8 +89,8 @@ params:
     displayTitle: false
     displayLogo: true
     logo:
-      path: images/logo.png
-      dark: images/logo-dark.png
+      path: images/DeepExtractAI.png
+      dark: images/DeepExtractAI.png
       width: 175
       height: 50
 
